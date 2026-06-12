@@ -1,8 +1,4 @@
 ````md
-<!-- ========================================= -->
-<!--               HEADER SECTION             -->
-<!-- ========================================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:6A5ACD&height=220&section=header&text=Shaik%20Imam%20Ali&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 </p>
@@ -18,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -51,7 +47,7 @@
 
 I am **Shaik Imam Ali**, a passionate **B.Tech Computer Science student** focused on Software Engineering, Artificial Intelligence, Machine Learning, Full Stack Development, and Cloud Technologies.
 
-I enjoy designing scalable applications, solving real-world problems, and building impactful products through innovation, collaboration, and continuous learning. My goal is to become a highly skilled Software Engineer capable of developing intelligent and scalable solutions that create real business value.
+I enjoy designing scalable applications, solving real-world problems, and building impactful products through innovation, collaboration, and continuous learning.
 
 ### Open To
 
@@ -98,12 +94,12 @@ I enjoy designing scalable applications, solving real-world problems, and buildi
 |----------|----------|----------|
 | Machine Learning | Advanced | Supervised & Unsupervised Learning |
 | Deep Learning | Intermediate | Neural Networks, CNNs |
-| NLP | Advanced | Text Processing, Sentiment Analysis, Language Models |
-| Data Science | Advanced | EDA, Feature Engineering, Visualization |
-| Data Engineering | Intermediate | ETL Pipelines, Data Processing |
-| Generative AI | Intermediate | LLMs, Prompt Engineering |
-| Speech Technology | Intermediate | Speech Recognition & Synthesis |
-| Computer Vision | Intermediate | Image Processing & Classification |
+| NLP | Advanced | Text Processing, Sentiment Analysis |
+| Data Science | Advanced | EDA, Feature Engineering |
+| Data Engineering | Intermediate | ETL Pipelines |
+| Generative AI | Intermediate | Prompt Engineering |
+| Speech Technology | Intermediate | Speech Recognition |
+| Computer Vision | Intermediate | Image Classification |
 
 ---
 
@@ -112,54 +108,48 @@ I enjoy designing scalable applications, solving real-world problems, and buildi
 <details>
 <summary><b>🚑 Emergency Response System (ERS)</b></summary>
 
-### Intelligent Emergency Management Platform
-
 | Metric | Details |
 |---------|---------|
-| Stack | Django, DRF, React Native, PostgreSQL, Google Maps API, Twilio |
+| Stack | Django, DRF, React Native, PostgreSQL |
 | Scale | Multi-agency Integration |
 | Performance | Real-Time Tracking |
 | Security | JWT Authentication |
 | Impact | Faster Emergency Response |
 | Repository | Private |
 
-Developed an Emergency Response System connecting hospitals, ambulances, and traffic police. The platform provides live ambulance tracking, traffic route optimization, emergency coordination, and faster response times.
+Emergency Response System connecting hospitals, ambulances, and traffic police through real-time communication and route optimization.
 
 </details>
 
 <details>
-<summary><b>📊 Titanic Data Analysis Project</b></summary>
-
-### Data Science & Analytics
+<summary><b>📊 Titanic Data Analysis</b></summary>
 
 | Metric | Details |
 |---------|---------|
 | Stack | Python, Pandas, NumPy, Matplotlib |
-| Scale | Historical Dataset Analysis |
-| Performance | Data-Driven Insights |
+| Scale | Historical Dataset |
+| Performance | Data Insights |
 | Security | Local Processing |
 | Impact | Predictive Analytics |
 | Repository | Public |
 
-Performed Exploratory Data Analysis (EDA) on the Titanic dataset during a Data Science Internship. Generated insights, visualizations, and feature analysis for predictive modeling.
+Performed EDA and visualization as part of a Data Science Internship.
 
 </details>
 
 <details>
 <summary><b>🏆 HackPrix Hackathon Project</b></summary>
 
-### Innovation & Rapid Development
-
 | Metric | Details |
 |---------|---------|
 | Stack | Python, React, SQL |
-| Scale | Hackathon Prototype |
+| Scale | Prototype |
 | Performance | Optimized MVP |
-| Security | OAuth Integration |
-| Impact | Innovative Solution |
+| Security | OAuth |
+| Impact | Innovation |
 | Repository | Public |
 
-Built an innovative full-stack application under strict time constraints, demonstrating teamwork, problem-solving, and rapid product development skills.
+Developed a full-stack hackathon solution under strict deadlines.
 
 </details>
 
@@ -167,33 +157,28 @@ Built an innovative full-stack application under strict time constraints, demons
 
 # Experience
 
-## Data Science Intern
-### Coding Samurai
+## Data Science Intern — Coding Samurai
 
 **2025**
 
-- Performed Exploratory Data Analysis on real-world datasets.
-- Cleaned, transformed, and visualized data.
-- Built analytical workflows using Python.
-- Generated insights for business decision-making.
+- Performed Exploratory Data Analysis
+- Built visualizations and reports
+- Cleaned and transformed datasets
+- Worked with Python ecosystem tools
 
-**Skills:** `Python` `Pandas` `NumPy` `Matplotlib` `Data Analysis`
+**Skills:** `Python` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
 # Achievements
 
-<div align="center">
-
 | Recognition | Details |
 |-------------|----------|
-| IIT Bombay CODECODE | Participated in National Coding Competition |
-| HackPrix Hackathon | Developed Innovative Solutions |
+| IIT Bombay CODECODE | National Coding Competition Participant |
+| HackPrix Hackathon | Built Innovative Solution |
 | Data Science Internship | Completed Real-World Analytics Projects |
 | Open Source Learning | Active GitHub Contributor |
-| AI/ML Projects | Built Multiple Intelligent Applications |
-
-</div>
+| AI/ML Projects | Developed Multiple Intelligent Applications |
 
 ---
 
@@ -216,23 +201,10 @@ Built an innovative full-stack application under strict time constraints, demons
 # Coding Profiles
 
 <p align="center">
-
-<a href="#">
 <img src="https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="#">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4B0082?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="#">
 <img src="https://img.shields.io/badge/HackerRank-Profile-8A2BE2?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
 <img src="https://img.shields.io/badge/CodeChef-Profile-4B0082?style=for-the-badge"/>
-</a>
-
 </p>
 
 ---
@@ -303,7 +275,7 @@ Open_To:
   - AI/ML Projects
   - Open Source Contributions
   - Research Opportunities
-````
+```
 
 ---
 
@@ -332,12 +304,10 @@ Open_To:
 ---
 
 <p align="center">
-
-### "Building impactful software through continuous learning and innovation."
-
+<b>"Building impactful software through continuous learning and innovation."</b>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,50:8A2BE2,100:6A5ACD"/>
-```
+````
 #   R E A D M E . m d  
  
